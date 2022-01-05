@@ -1,5 +1,6 @@
 {
 	"files.insertFinalNewline": true,
 	"dart.maxLogLineLength": 20000,
-	"dart.previewBazelWorkspaceCustomScripts": true
+	"dart.previewBazelWorkspaceCustomScripts": true,
+	"dart.experimentalSdkDaps": true,
 }
